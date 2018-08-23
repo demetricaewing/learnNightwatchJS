@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="orig_testcases.testcase1"
+    errors="0" failures="0" hostname="" id="" package="orig_testcases" skipped="0"
+    tests="1" time="10.69" timestamp="Thu, 23 Aug 2018 03:31:22 GMT">
+  
+    <testcase name="Open Homepage and click on headers" classname="orig_testcases.testcase1" time="10.69" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

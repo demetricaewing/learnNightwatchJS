@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="jewels_tests.earrings"
+    errors="0" failures="0" hostname="" id="" package="jewels_tests" skipped="0"
+    tests="7" time="23.30" timestamp="Thu, 23 Aug 2018 03:18:23 GMT">
+  
+    <testcase name="Click for Main Earring header" classname="jewels_tests.earrings" time="7.382" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Click on Stud Earrings" classname="jewels_tests.earrings" time="3.122" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Pearl Earrings" classname="jewels_tests.earrings" time="1.605" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Hoops Earrings" classname="jewels_tests.earrings" time="3.998" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Cuff Earrings" classname="jewels_tests.earrings" time="2.065" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Fashion Earrings" classname="jewels_tests.earrings" time="2.855" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Other Earrings" classname="jewels_tests.earrings" time="2.278" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="jewels_tests.shopNow"
+    errors="0" failures="0" hostname="" id="" package="jewels_tests" skipped="0"
+    tests="1" time="10.45" timestamp="Thu, 23 Aug 2018 03:20:01 GMT">
+  
+    <testcase name="Click the shop now button" classname="jewels_tests.shopNow" time="10.45" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

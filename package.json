@@ -1,0 +1,14 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "learn nightwatch",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DEwing",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
